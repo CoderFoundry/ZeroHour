@@ -1,2 +1,2 @@
 # ZeroHour
-ZerHour - A Coding Challenge
+ZeroHour - A Coding Challenge
