@@ -8,5 +8,5 @@ You are given an R by C matrix consisting of booleans that represents a board. E
                                 [f, f, f, f],<br>
                                 [f, f, f, f]]
                           
-and start = (0, 0)(bottom left) and end = (3, 0)(top left), the minimum number of steps required to reach the end is 7, since we would need to go through (1, 2) because there is a wall everywhere else on the second row. <b><i>(Note* the displayed grid is inverted for display purposes so that row 0 is on the bottom)</i></b>
+and start = (0, 0)(bottom left) and end = (3, 0)(top left), the minimum number of steps required to reach the end is 7, since we would need to go through (1, 2) because there is a wall everywhere else on the second row. 
                             
